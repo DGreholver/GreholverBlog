@@ -1,0 +1,31 @@
+Journey to Jericho
+A musical by JT Greholver
+
+
+The files in this folder contain the following:
+
+Script File:    "! Journey to Jericho.doc"  -- MS Word document with hyperlinks
+		"! Journey to Jericho.pdf"  -- PDF file with inactive hyperlinks
+
+Sheet Music:  	.PDF files of each song
+
+Sound Files:	.MID files -- midi files that use your computer sound card
+		.MP3 files -- larger sound files with better sounds
+
+
+The script file contains the script with hyperlinks to each song's sheet music and sound files.  
+
+The last page of the script contains a matrix of all files, hyperlinked for convenience.
+
+The hyperlinks will work as is if all the files are kept in the same folder/directory as the MSWord doc.
+
+
+The unpublished musical is free to use... Please consider a generous donation to The Salvation Army "World Services" to support the many ministries of The Salvation Army in countries around the world.
+
+
+Contact the author if you need orchestrated scores or special arrangements.  Original music created with Noteworthy and Finale.
+
+John Greholver
+Capitola, California
+February 2007
+
